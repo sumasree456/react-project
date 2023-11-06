@@ -9,3 +9,4 @@ updates:
     directory: "/crud-app" # Location of package manifests
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 10
