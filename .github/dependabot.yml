@@ -9,5 +9,5 @@ updates:
     directory: "/crud-app" # Location of package manifests
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 100
     target-branch: "729Ticket"
